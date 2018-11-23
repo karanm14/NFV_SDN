@@ -11,3 +11,6 @@ The powerpoint was used during oral presentation.
 The pdf is the review paper explaining about NFV(Network Function Virtualization), SDN(Software Defined Networking), Network Virtualization and Security Loopholes
 
 All references duly attached in the paper
+
+
+Full paper in papercam.pdf file
