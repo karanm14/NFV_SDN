@@ -7,6 +7,9 @@ Abstract- in today's world of connectivity either it is absolute security or abs
 
 This paper was presented by me (Karan Maheshwari) at World Summit of Advances in Science, Engineering and Technology at University of Cambridge during my studentship at Vellore Institute of Technology, India on January 4 2018 at Murray Edwards College, University of Cambridge, U.K.  [Certificate/acceptance letter attached for reference]
 
+Conference details can be found at http://info.vit.ac.in/cambridgesummit2018/index.asp
+
+
 The powerpoint was used during oral presentation.
 The pdf is the review paper explaining about NFV(Network Function Virtualization), SDN(Software Defined Networking), Network Virtualization and Security Loopholes
 
